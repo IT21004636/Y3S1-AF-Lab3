@@ -1,0 +1,19 @@
+{
+  "name": "y3s1-af-lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21004636/Y3S1-AF-Lab3.git"
+  },
+  "author": "nashali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21004636/Y3S1-AF-Lab3/issues"
+  },
+  "homepage": "https://github.com/IT21004636/Y3S1-AF-Lab3#readme"
+}
